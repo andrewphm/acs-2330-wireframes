@@ -39,7 +39,7 @@ https://miro.com/app/board/uXjVMWXdcB4=/
 
 - Signup
   - Header
-    - [Same as homer]
+    - [Same as home]
   - Body
     - Subheading - "Sign up to our newsletter"
     - Form
